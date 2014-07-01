@@ -22,6 +22,10 @@
 		6464CE44195F2BFF00358D70 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6464CE23195F2BFF00358D70 /* UIKit.framework */; };
 		6464CE4C195F2BFF00358D70 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6464CE4A195F2BFF00358D70 /* InfoPlist.strings */; };
 		6464CE4E195F2BFF00358D70 /* Space___PlanetsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6464CE4D195F2BFF00358D70 /* Space___PlanetsTests.m */; };
+		6464CE58195F2C4200358D70 /* hey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6464CE57195F2C4200358D70 /* hey.jpg */; };
+		6464CE5C195F2DDB00358D70 /* p1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6464CE59195F2DDB00358D70 /* p1.jpg */; };
+		6464CE5D195F2DDB00358D70 /* p2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6464CE5A195F2DDB00358D70 /* p2.jpg */; };
+		6464CE5E195F2DDB00358D70 /* p3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6464CE5B195F2DDB00358D70 /* p3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +59,10 @@
 		6464CE49195F2BFF00358D70 /* Space & PlanetsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Space & PlanetsTests-Info.plist"; sourceTree = "<group>"; };
 		6464CE4B195F2BFF00358D70 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6464CE4D195F2BFF00358D70 /* Space___PlanetsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Space___PlanetsTests.m"; sourceTree = "<group>"; };
+		6464CE57195F2C4200358D70 /* hey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hey.jpg; sourceTree = "<group>"; };
+		6464CE59195F2DDB00358D70 /* p1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p1.jpg; sourceTree = "<group>"; };
+		6464CE5A195F2DDB00358D70 /* p2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p2.jpg; sourceTree = "<group>"; };
+		6464CE5B195F2DDB00358D70 /* p3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +137,10 @@
 		6464CE26195F2BFF00358D70 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6464CE59195F2DDB00358D70 /* p1.jpg */,
+				6464CE5A195F2DDB00358D70 /* p2.jpg */,
+				6464CE5B195F2DDB00358D70 /* p3.jpg */,
+				6464CE57195F2C4200358D70 /* hey.jpg */,
 				6464CE27195F2BFF00358D70 /* Space & Planets-Info.plist */,
 				6464CE28195F2BFF00358D70 /* InfoPlist.strings */,
 				6464CE2B195F2BFF00358D70 /* main.m */,
@@ -231,8 +243,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6464CE5E195F2DDB00358D70 /* p3.jpg in Resources */,
+				6464CE5C195F2DDB00358D70 /* p1.jpg in Resources */,
 				6464CE36195F2BFF00358D70 /* Main_iPad.storyboard in Resources */,
+				6464CE5D195F2DDB00358D70 /* p2.jpg in Resources */,
 				6464CE3B195F2BFF00358D70 /* Images.xcassets in Resources */,
+				6464CE58195F2C4200358D70 /* hey.jpg in Resources */,
 				6464CE33195F2BFF00358D70 /* Main_iPhone.storyboard in Resources */,
 				6464CE2A195F2BFF00358D70 /* InfoPlist.strings in Resources */,
 			);
